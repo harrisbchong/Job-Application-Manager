@@ -13,3 +13,6 @@ Since I had some experience with frontend web development and React, the majorit
 2. Run 'npm i' in the root directory of the project as well as in the client directory.
 3. Make sure you have MongoDB installed.
 4. Run 'npm start' in the client directory to start the React webpage, and run 'npm run serve' in the root directory to start the server.
+
+# To-Do
+1. Deploy and add authentication.
